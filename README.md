@@ -1,7 +1,5 @@
 # Il2CppDumper
 
-### Please join our Discord for help: https://discord.gg/YupCkfGfZ3
-
 Modified version of Il2CppDumper allows you to dump methods of UserAssembly.dll of the game Genshin Impact
 
 NOTICE: The global-metadata.dat of the game Genshin Impact has been encrypted, you need to dump decrypted file from memory before use this tool.
